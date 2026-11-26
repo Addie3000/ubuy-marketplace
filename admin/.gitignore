@@ -1,0 +1,6 @@
+includes/config.live.php
+uploads/products/*
+!uploads/products/.gitkeep
+.vscode/
+*.log
+
